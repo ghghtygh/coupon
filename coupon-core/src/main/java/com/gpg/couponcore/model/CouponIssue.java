@@ -31,5 +31,7 @@ public class CouponIssue extends BaseTimeEntity {
     @CreatedDate
     private LocalDateTime issuedDate;
 
+
+
     private LocalDateTime usedDate;
 }
