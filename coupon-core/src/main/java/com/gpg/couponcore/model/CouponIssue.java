@@ -34,4 +34,6 @@ public class CouponIssue extends BaseTimeEntity {
 
 
     private LocalDateTime usedDate;
+
+    // 테스트를 위한 주석 추가
 }
